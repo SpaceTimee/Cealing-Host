@@ -32,6 +32,6 @@
     [["*dropbox.com"],"dro","162.125.85.18"],
     [["*bbc.com"],"bbc","146.75.36.81"],
     [["*bbci.co.uk","*bbc.co.uk"],"bbci","23.56.25.35"],
-    [["*discord.com"],"discord","162.159.137.232"],
-    [["*joinpeertube.org"],"joinpeertube","94.130.212.178"],
+    [["*discord.com"],"dis","162.159.137.232"],
+    [["*joinpeertube.org"],"joi","94.130.212.178"]
 ]
