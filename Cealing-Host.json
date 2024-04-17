@@ -23,7 +23,7 @@
     [["*twimg.com"],"twim","146.75.72.157"],
     [["*facebook.com","*fbcdn.net"],"fac","157.240.22.169"],
     [["*instagram.com","*instagr.am","*ig.me"],"ins","157.240.236.174"],
-    [["*github.com","*githubassets.com"],"git","20.205.243.166"],
+    [["*github.com"],"git","20.205.243.166"],
     [["*githubusercontent.com"],"gith","185.199.108.133"],
     [["upload.wikimedia.org"],"uwik","208.80.154.240"],
     [["*wikipedia.org","*wikimedia.org"],"wik","185.15.59.224"],
