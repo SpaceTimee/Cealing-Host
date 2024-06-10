@@ -21,7 +21,8 @@
 * Cealing Host P (中国大陆规则 PRC-Mainland): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json))
 
 ## 食用方式
-运行 Sheas Cealer -> 点击**编辑**按钮 -> 将相应内容复制到自动打开的文件中并保存
+1. 运行 Sheas Cealer -> 将文件 (镜像) 直链填入上游链接 -> 点击**更新规则**按钮获取更新 (首选)
+2. 运行 Sheas Cealer -> 点击**编辑规则**按钮 -> 将相应内容复制到自动打开的文件中并保存 (临时使用)
 
 ## 开发者
 **Space Time**
