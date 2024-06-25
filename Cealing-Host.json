@@ -26,6 +26,8 @@
     [["*instagram.com","*instagr.am","ig.me","*.ig.me"],"","157.240.236.174"],
     [["*github.com"],"","20.205.243.166"],
     [["*githubusercontent.com"],"","185.199.108.133"],
+    [["internal-api.virginia.labs.lumalabs.ai"],"","3.214.94.100"],
+    [["*lumalabs.ai"],"vercel.com","76.76.21.21"],
     [["upload.wikimedia.org"],"","208.80.154.240"],
     [["*wikipedia.org","*wikimedia.org","*wiktionary.org","*wikinews.org"],"","185.15.59.224"],
     [["*z-library.se","*singlelogin.re"],"","176.123.7.105"],
