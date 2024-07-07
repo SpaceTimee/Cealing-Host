@@ -1,5 +1,6 @@
 [
     [["cdn.jsdelivr.net"],"","104.16.89.20"],
+    [["images.prismic.io"],"","151.101.78.208"],
     [["*pixiv.net","*fanbox.cc"],"pixivision.net","210.140.92.187"],
     [["*pximg.net"],"","210.140.92.141"],
     [["*pinterest.com","*pinimg.com"],"","151.101.0.84"],
@@ -15,7 +16,13 @@
     [["*archive.org"],"","207.241.228.68"],
     [["*steamcommunity.com"],"","104.73.78.128"],
     [["store.steampowered.com"],"","23.46.197.62"],
-    [["*okx.com"],"","8.212.101.92"],
+    [["account.proton.me"],"","185.70.42.36"],
+    [["account-api.proton.me"],"","185.70.42.20"],
+    [["mail.proton.me"],"","185.70.42.37"],
+    [["calendar.proton.me"],"","185.70.42.39"],
+    [["drive.proton.me"],"","185.70.42.40"],
+    [["pass.proton.me"],"","185.70.42.63"],
+    [["*proton.me"],"","185.70.42.45"],
     [["*discord.com"],"","162.159.137.232"],
     [["*discord.gg"],"","162.159.130.234"],
     [["*discordapp.com"],"","162.159.129.233"],
@@ -29,12 +36,12 @@
     [["forum.f-droid.org"],"","37.218.242.53"],
     [["f-droid.org","www.f-droid.org","fdroid.org"],"","37.218.243.72"],
     [["*apkmirror.com"],"","104.19.134.58"],
+    [["*okx.com"],"","8.212.101.92"],
     [["*patreon.com"],"","104.16.25.14"],
     [["*patreonusercontent.com"],"","104.18.70.106"],
     [["*vimeo.com"],"","162.159.128.61"],
     [["identity.flickr.com"],"","3.209.240.130"],
     [["*flickr.com"],"","13.224.165.123"],
     [["*imgur.com"],"","199.232.192.193"],
-    [["*thetvdb.com"],"","54.192.23.105"],
-    [["*joinpeertube.org"],"","94.130.212.178"]
+    [["*thetvdb.com"],"","54.192.23.105"]
 ]
