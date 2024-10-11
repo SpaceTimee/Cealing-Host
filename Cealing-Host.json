@@ -18,7 +18,7 @@
     [["*xvideos.com","*xnxx.com"],"","185.88.181.3"],
     [["*xhamster.com"],"zh.xhamster.com","104.17.35.109"],
     [["*xhamster42.desi"],"zh.xhamster42.desi","104.17.35.109"],
-    [["*google*","*gstatic.com","*youtube.com","yt3.ggpht.com","i.ytimg.com","*blogger.com"],"g.cn","216.239.32.40"],
+    [["*google*","*gstatic.com","*youtube.com","*.ggpht.com","i.ytimg.com","*blogger.com"],"g.cn","216.239.32.40"],
     [["*duckduckgo.com"],"","20.43.161.105"],
     [["*twitter.com","x.com","*.x.com","t.co","*.t.co"],"","69.195.183.139"],
     [["*twimg.com"],"","146.75.72.157"],
@@ -73,6 +73,6 @@
     [["*vimeo.com"],"","162.159.128.61"],
     [["identity.flickr.com"],"","3.209.240.130"],
     [["*flickr.com"],"","13.224.165.123"],
-    [["*imgur.com"],"","199.232.192.193"],
+    [["*imgur.com"],"","199.232.196.193"],
     [["*thetvdb.com"],"","54.192.23.105"]
 ]
