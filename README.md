@@ -14,11 +14,14 @@
 3. 本项目非常欢迎大家贡献自己的伪造规则，欢迎提交 PR，Issue，也欢迎通过私信告诉我
 
 ## 文件地址
-* Cealing Host (完整规则): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json))
+Cealing Host: [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host.json))
 
-* Cealing Host A (全年龄向规则 All-Ages): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-A.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-A.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-A.json))
+> [Cealing Host A](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-A.json) 和 [Cealing Host P](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json) 已弃用，不再维护
 
-* Cealing Host P (中国大陆规则 PRC-Mainland): [https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json](https://github.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json) ([镜像](https://gitlab.com/SpaceTimee/Cealing-Host/raw/main/Cealing-Host-P.json))
+## 其他规则
+c15412/Cealing-Host (部分规则添加多 ip 优选功能): [https://github.com/c15412/Cealing-Host/blob/main/Cealing-Host.json](https://github.com/c15412/Cealing-Host/blob/main/Cealing-Host.json)
+
+> 这些伪造规则由其他维护者维护，使用前请自行检查
 
 ## 食用方式
 1. 运行 Sheas Cealer -> 将文件 (镜像) 直链填入上游链接 -> 点击**更新规则**按钮获取更新 (首选)
