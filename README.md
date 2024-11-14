@@ -9,7 +9,7 @@
 **[Sheas Cealer Dictionary](https://github.com/SpaceTimee/Sheas-Cealer/wiki/Sheas-Cealer-Dictionary)**
 
 ## 注意事项
-1. 部分网站的伪造请参考 [特殊网站伪造教程](https://github.com/SpaceTimee/Cealing-Host/wiki/Special%E2%80%90Cealing%E2%80%90Instruction)
+1. 部分特殊网站的伪造请参考 [特殊网站伪造教程](https://github.com/SpaceTimee/Cealing-Host/wiki/Special%E2%80%90Cealing%E2%80%90Instruction)
 2. 本项目仅供测试 Sheas Cealer 的 SNI 伪造效果，无意绕过任何国家审查设备的审查
 3. 本项目非常欢迎大家贡献自己的伪造规则，欢迎提交 PR，Issue，也欢迎通过私信告诉我
 
