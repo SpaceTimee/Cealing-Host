@@ -23,6 +23,7 @@
     [["*google*","*gstatic.com","*youtube.com","*.ggpht.com","i.ytimg.com","*youtube-nocookie.com","*blogger.com"],"g.cn","109.185.236.240"],
     [["external-content.duckduckgo.com"],"","20.43.160.189"],
     [["*duckduckgo.com"],"","20.43.161.105"],
+    [["*startpage.com"],"","67.63.58.139"],
     [["*twitter.com","x.com","*.x.com","t.co","*.t.co"],"","69.195.183.139"],
     [["*twimg.com"],"","146.75.72.157"],
     [["*facebook.com","*fbcdn.net","business.whatsapp.com"],"","157.240.22.169"],
@@ -59,7 +60,7 @@
     [["*telegram.org","*tg.dev","t.me","*.t.me","*telesco.pe"],"","38.94.111.240"],
     [["*discord.com"],"","162.159.137.232"],
     [["*discord.gg"],"","162.159.130.234"],
-    [["*discordapp.com"],"","162.159.129.233"],
+    [["*discordapp.com"],"","162.159.130.233"],
     [["$assets.twitch.tv","$panels.twitch.tv","$passport.twitch.tv","$*nicovideo.jp","$nvapi.nicovideo.jp","$embed.nicovideo.jp","$wktk.nicovideo.jp"],null,"13.226.65.160"],
     [["$*twitch.tv","$m.twitch.tv","$gql.twitch.tv"],"","151.101.194.167"],
     [["*rumble.com"],"","205.220.231.24"],
@@ -75,6 +76,7 @@
     [["*bbc.com"],"","146.75.36.81"],
     [["*bbci.co.uk","*bbc.co.uk"],"","23.77.21.232"],
     [["*nytimes.com","*nyt.com"],"","146.75.117.164"],
+    [["*rfi.fr"],"","118.214.247.61"],
     [["graphql.api.dailymotion.com"],"","34.84.14.157"],
     [["*dailymotion.com"],"","195.8.215.140"],
     [["forum.f-droid.org"],"","37.218.242.53"],
@@ -85,7 +87,7 @@
     [["*patreonusercontent.com"],"","104.18.70.106"],
     [["*vimeo.com"],"","162.159.128.61"],
     [["identity.flickr.com"],"","3.209.240.130"],
-    [["*flickr.com"],"","13.224.165.123"],
+    [["*flickr.com"],"","13.33.142.102"],
     [["*imgur.com"],"","199.232.196.193"],
     [["*thetvdb.com"],"","54.192.23.105"]
 ]
