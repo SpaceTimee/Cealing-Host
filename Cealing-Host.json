@@ -1,8 +1,9 @@
 [
     [["cdn.jsdelivr.net"],"","104.16.89.20"],
     [["images.prismic.io"],"","151.101.78.208"],
+    [["api.fanbox.cc"],"api.fanbox.cc","172.64.146.116"],
     [["*pixiv.net","*fanbox.cc"],"pixivision.net","210.140.139.155"],
-    [["*pximg.net"],"","210.140.92.141"],
+    [["*pximg.net"],"","210.140.139.133"],
     [["*pinterest.com","*pinimg.com"],"","151.101.0.84"],
     [["*wallhaven.cc"],"","15.235.80.145"],
     [["upld.e-hentai.org"],"","94.100.18.249"],
