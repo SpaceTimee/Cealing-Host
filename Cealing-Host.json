@@ -31,6 +31,7 @@
     [["*whatsapp.com","*whatsapp.net"],"","157.240.225.60"],
     [["*instagram.com","*instagr.am","ig.me","*.ig.me"],"","157.240.236.174"],
     [["*github.com"],"","20.200.245.247"],
+    [["objects-origin.githubusercontent.com"],"","140.82.113.22"],
     [["*githubusercontent.com"],"","185.199.108.133"],
     [["internal-api.virginia.labs.lumalabs.ai"],"","34.204.141.236"],
     [["*lumalabs.ai"],"vercel.com","76.76.21.21"],
