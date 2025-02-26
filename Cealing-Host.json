@@ -34,7 +34,7 @@
     [["objects-origin.githubusercontent.com"],"","140.82.113.22"],
     [["*githubusercontent.com"],"","185.199.108.133"],
     [["$*huggingface.co","$discuss.huggingface.co","$status.huggingface.co","$cdn-avatars.huggingface.co","$cdn-uploads.huggingface.co"],null,"3.167.200.113"],
-    [["$hub.docker.com"],null,"3.167.200.113"],
+    [["$hub.docker.com"],null,"100.29.167.200"],
     [["*vercel.app"],"vercel.com","64.29.17.193"],
     [["internal-api.virginia.labs.lumalabs.ai"],"","34.204.141.236"],
     [["*lumalabs.ai"],"vercel.com","76.76.21.21"],
