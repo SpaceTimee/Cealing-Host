@@ -3,7 +3,7 @@
 </br>
 
 ## 自我介绍
-**Cealing Host 存储库**: 用于管理最新的 Sheas Cealer 内置伪造规则
+**Cealing Host 存储库**: 用于管理最新的 [Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer) 内置伪造规则
 
 ## 词汇解释
 **[Sheas Cealer Dictionary](https://github.com/SpaceTimee/Sheas-Cealer/wiki/Sheas-Cealer-Dictionary)**
@@ -28,12 +28,15 @@ c15412/Cealing-Host (部分规则添加多 ip 优选功能): [https://github.com
 1. 运行 Sheas Cealer -> 将文件 (镜像) 直链填入上游链接 -> 点击**更新上游规则**按钮获取更新 (首选)
 2. 运行 Sheas Cealer -> 点击**编辑上游规则**按钮 -> 将相应内容复制到自动打开的文件中并保存 (临时使用)
 
+## 格式文档
+**[Cealing Host Documentation](https://github.com/SpaceTimee/Cealing-Host/wiki/Cealing-Host-Documentation)**
+
 ## 开发者
 **Space Time**
 
 ## 联系方式
-1. **QQ 群 (主群): 716266896，338919498**
-2. TG 群 (分群): [PixCealerChat](https://t.me/PixCealerChat)
+1. **QQ 群: 716266896，338919498**
+2. TG 群: [PixCealerChat](https://t.me/PixCealerChat)
 3. **邮箱: Zeus6_6@163.com**
 
 •ᴗ•
