@@ -35,7 +35,7 @@ c15412/Cealing-Host (部分规则添加多 ip 优选功能): [https://github.com
 **Space Time**
 
 ## 联系方式
-1. **QQ 群: 716266896，338919498**
+1. **QQ 群: 1034315671，716266896，338919498**
 2. TG 群: [PixCealerChat](https://t.me/PixCealerChat)
 3. **邮箱: Zeus6_6@163.com**
 
