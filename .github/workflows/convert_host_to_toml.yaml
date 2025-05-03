@@ -28,8 +28,7 @@ jobs:
       - name: Convert Host To Toml
         run: |
           cp "Cealing-Host.json" ".github/workflows/Cealing-Host.json"
-          cd ".github/workflows"
-          python "convert_host_to_toml.py"
+          python ".github/workflows/convert_host_to_toml.py"
 
       - name: Release Toml
         uses: softprops/action-gh-release@v2
