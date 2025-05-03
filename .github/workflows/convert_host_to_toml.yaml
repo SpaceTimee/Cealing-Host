@@ -27,6 +27,7 @@ jobs:
 
       - name: Convert Host To Toml
         run: |
+          cp "Cealing-Host.json" ".github/workflows/Cealing-Host.json"
           cd ".github/workflows"
           python "convert_host_to_toml.py"
 
