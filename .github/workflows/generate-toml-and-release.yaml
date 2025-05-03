@@ -20,7 +20,7 @@ jobs:
             ./*.toml
   release:
     runs-on: ubuntu-latest
-    needs: generate 
+    needs: generate
     steps:
       - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
@@ -28,4 +28,4 @@ jobs:
           path: config/
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "config/*.json,config/*.toml"
+          artifacts: "./config/*/*.json, ./config/*/*.toml"
