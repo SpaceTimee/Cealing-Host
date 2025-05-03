@@ -9,7 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: generate toml file
-        run: python ./.github/workflows/generate.py
+        run: |
+          pip install toml
+          python ./.github/workflows/generate.py
       - uses: actions/upload-artifact@v4
         with:
           name: config
