@@ -9,10 +9,12 @@ jobs:
     name: Convert Host To Toml
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch Github Folder
+      - name: Fetch Github Folder & Host
         uses: actions/checkout@v4
         with:
-          sparse-checkout: .github
+          sparse-checkout: |
+            .github
+            Cealing-Host.json
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,7 +30,7 @@ jobs:
           cd ".github/workflows"
           python "convert_host_to_toml.py"
 
-      - name: Release Toml Host
+      - name: Release Toml
         uses: softprops/action-gh-release@v2
         with:
           files: Cealing-Host.toml
