@@ -18,14 +18,6 @@ jobs:
           path: |
             ./*.json
             ./*.toml
-  release:
-    runs-on: ubuntu-latest
-    needs: generate
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
-        with:
-          path: config/
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "./config/*/*.json, ./config/*/*.toml"
+          artifacts: "./*.json, ./*.toml"

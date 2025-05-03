@@ -31,8 +31,6 @@ def convert_json_to_toml(json_file_path, toml_file_path):
 # 使用示例
 if __name__ == "__main__":
     for filename_base in [
-        "Cealing-Host-A",
-        "Cealing-Host-P",
         "Cealing-Host-R",
         "Cealing-Host",
     ]:
