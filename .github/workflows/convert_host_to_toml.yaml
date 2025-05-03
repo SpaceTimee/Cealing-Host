@@ -1,0 +1,35 @@
+name: Convert Host To Toml
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  convert_host_to_toml:
+    name: Convert Host To Toml
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch Github Folder
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          check-latest: true
+
+      - name: Install Toml
+        run: pip install "toml"
+
+      - name: Convert Host To Toml
+        run: |
+          cd ".github/workflows"
+          python "convert_host_to_toml.py"
+
+      - name: Release Toml Host
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Cealing-Host.toml
+          token: ${{ secrets.GH_TOKEN }}
