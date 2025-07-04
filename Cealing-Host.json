@@ -43,6 +43,7 @@
     [["*vercel.app"],"vercel.com","64.29.17.193"],
     [["*claude.ai"],"claude.ai","[2602:fc59:11:64::a04f:680a]"],
     [["copilot.microsoft.com"],"www.azureedge.net","[2602:fc59:11:64::cc4f:c5ed]"],
+    [["*character.ai"],"","104.18.223.226"],
     [["internal-api.virginia.labs.lumalabs.ai"],"","34.204.141.236"],
     [["*lumalabs.ai"],"vercel.com","76.76.21.21"],
     [["upload.wikimedia.org"],"","208.80.154.240"],
