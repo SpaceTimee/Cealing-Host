@@ -28,6 +28,7 @@
     [["*.yahoo.com^*.media.yahoo.com","*yimg.com"],"www.yahoo.com","[2001:67c:2960:6464::b4de:6a0b]"],
     [["external-content.duckduckgo.com"],"","20.43.160.189"],
     [["*duckduckgo.com"],"","20.43.161.105"],
+    [["www.ecosia.org"],"www.ecosia.org","[2001:67c:2960:6464::ac40:9647]"],
     [["*startpage.com"],"","67.63.58.139"],
     [["*facebook.com","*fbcdn.net","business.whatsapp.com"],"","157.240.22.169"],
     [["*whatsapp.com","*whatsapp.net"],"","157.240.225.60"],
