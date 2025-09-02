@@ -25,7 +25,7 @@
     [["consent.yahoo.com"],"consent.yahoo.com","consent.yahoo.com"],
     [["guce.yahoo.com"],"guce.yahoo.com","guce.yahoo.com"],
     [["*.buy.yahoo.com"],"buy.yahoo.com","[2001:67c:2960:6464::b4de:6697]"],
-    [["*.yahoo.com^*.media.yahoo.com","*yimg.com"],"www.yahoo.com","[2001:67c:2960:6464::b4de:6a0b]"],
+    [["*.yahoo.com^*.media.yahoo.com","s.yimg.com"],"www.yahoo.com","[2001:67c:2960:6464::b4de:6a0b]"],
     [["external-content.duckduckgo.com"],"","20.43.160.189"],
     [["*duckduckgo.com"],"","20.43.161.105"],
     [["www.ecosia.org"],"www.ecosia.org","[2001:67c:2960:6464::ac40:9647]"],
