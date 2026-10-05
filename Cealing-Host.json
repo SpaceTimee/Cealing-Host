@@ -45,6 +45,8 @@
     [["*github.com"],"","20.27.177.113"],
     [["objects-origin.githubusercontent.com"],"","140.82.113.22"],
     [["*githubusercontent.com"],"","185.199.108.133"],
+    [["status.huggingface.co"],"status.singpass.gov.sg","statuspage.betteruptime.com"],
+    [["discuss.huggingface.co"],"","hellohellohello.hosted-by-discourse.com"],
     [["*huggingface.co"],"huggingface.cn","3.167.200.113"],
     [["hub.docker.com","auth.docker.io"],"","hub-origin.docker.com"],
     [["production.cloudflare.docker.com"],"","104.16.100.215"],
